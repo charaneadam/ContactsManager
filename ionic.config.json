@@ -1,5 +1,7 @@
 {
   "name": "ContactsManager",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

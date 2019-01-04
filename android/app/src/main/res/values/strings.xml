@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ContactsManager</string>
+    <string name="title_activity_main">ContactsManager</string>
+    <string name="package_name">ma.iwim.ContactsManager</string>
+    <string name="fileprovider_authority">ma.iwim.ContactsManager.fileprovider</string>
+    <string name="custom_url_scheme">ma.iwim.ContactsManager</string>
+</resources>

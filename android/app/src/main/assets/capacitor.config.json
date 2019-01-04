@@ -1,0 +1,6 @@
+{
+  "appId": "ma.iwim.ContactsManager",
+  "appName": "ContactsManager",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
